@@ -1,0 +1,134 @@
+{
+    "base_font": "sans-serif",
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=podcaster&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "has_primary_nav": true,
+        "has_secondary_nav": true,
+        "has_social": true,
+        "has_tertiary_nav": false,
+        "logo": "https://cdn.sanity.io/images/3vjzdfdp/production/2ad853235a3861526459185bd368e9ea10fe540a-173x95.png",
+        "logo_alt": "Podcaster logo",
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "style": "link",
+                "type": "action",
+                "url": "/episodes"
+            },
+            {
+                "label": "Subscribe",
+                "style": "link",
+                "type": "action",
+                "url": "/subscribe"
+            },
+            {
+                "label": "Advertising",
+                "style": "link",
+                "type": "action",
+                "url": "/advertising"
+            }
+        ],
+        "secondary_nav_links": [
+            {
+                "label": "About",
+                "style": "link",
+                "type": "action",
+                "url": "/about"
+            },
+            {
+                "label": "Terms",
+                "style": "link",
+                "type": "action",
+                "url": "/terms-conditions"
+            },
+            {
+                "label": "Privacy Policy",
+                "style": "link",
+                "type": "action",
+                "url": "/privacy-policy"
+            }
+        ],
+        "social_links": [
+            {
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "label": "Twitter",
+                "new_window": true,
+                "style": "link",
+                "type": "action",
+                "url": "https://twitter.com/"
+            },
+            {
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "label": "Facebook",
+                "new_window": true,
+                "style": "link",
+                "type": "action",
+                "url": "https://www.facebook.com/"
+            },
+            {
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "label": "Instagram",
+                "new_window": true,
+                "style": "link",
+                "type": "action",
+                "url": "https://www.instagram.com/"
+            }
+        ],
+        "type": "footer"
+    },
+    "header": {
+        "anncmnt_align": "left",
+        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-episode",
+        "anncmnt_is_home_only": true,
+        "has_anncmnt": true,
+        "has_primary_nav": true,
+        "has_secondary_nav": true,
+        "logo": "https://cdn.sanity.io/images/3vjzdfdp/production/2ad853235a3861526459185bd368e9ea10fe540a-173x95.png",
+        "logo_alt": "Kat Consulting",
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "style": "link",
+                "type": "action",
+                "url": "/episodes"
+            },
+            {
+                "label": "About",
+                "style": "link",
+                "type": "action",
+                "url": "/about"
+            },
+            {
+                "label": "Sponsoring",
+                "style": "link",
+                "type": "action",
+                "url": "/advertising"
+            }
+        ],
+        "secondary_nav_links": [
+            {
+                "label": "Apliko online",
+                "style": "primary",
+                "type": "action",
+                "url": "/apliko-online"
+            }
+        ],
+        "title": "Kat Consulting",
+        "type": "header"
+    },
+    "layout_type": "boxed",
+    "mode": "dark",
+    "palette": "red",
+    "style": "bold",
+    "title": "Qendra për Trajnime dhe Kontabilitet",
+    "domain": "https://blue-zucchini-c842f.netlify.app",
+    "favicon": "https://cdn.sanity.io/images/3vjzdfdp/production/17bfa4f4143669839d0f6f9629ca371d14e8ed46-42x57.png"
+}
